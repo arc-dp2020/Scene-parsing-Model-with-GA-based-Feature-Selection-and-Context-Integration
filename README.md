@@ -1,0 +1,1 @@
+# Scene-parsing-Model-with-GA-based-Feature-Selection-and-Context-Integration
